@@ -3,8 +3,8 @@
  - 提倡管理人员多拉善于装逼、技术控的人员入群； 提倡讨论宇宙、外星人、人生理想、资本主义、物理学说、大自然、邪神论、牛逼技术、国家政治、女人、泡妞沙龙、
  - 人工智能，机器人，无人机，尤其是提倡【创业】累话题装逼、技术讨论聚堆装逼等；
  - 合作伙伴:
- -          International Atomic Energy Agency/国际原子能机构 
- - 				  NASA/美国宇航局 
- -          APACHE/APACHE基金会 
- - 			    International Mathematical Union/国际数学联盟 
- - 			    改变世界从加入二龙湖开始:542414498
+ -  International Atomic Energy Agency/国际原子能机构 
+ -  NASA/美国宇航局 
+ -  APACHE/APACHE基金会 
+ -  International Mathematical Union/国际数学联盟 
+ -  改变世界从加入二龙湖开始:542414498
