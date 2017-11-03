@@ -1,25 +1,25 @@
 var table = [
     "全爷", "Hydrogen", "1.00794", 1, 1, "https://github.com/1156721874",
     "身爷", "Helium", "4.002602", 18, 1, "https://github.com/alyenc",
-    "成爷", "Lithium", "6.941", 1, 2, "",
+    "成爷", "Lithium", "6.941", 1, 2, "https://github.com/wa000",
     "强哥", "Beryllium", "9.012182", 2, 2, "",
     "海爷", "Boron", "10.811", 13, 2, "",
     "夜爷", "Carbon", "12.0107", 14, 2, "",
-    "隐爷", "Nitrogen", "14.0067", 15, 2, "",
+    "隐爷", "Nitrogen", "14.0067", 15, 2, "https://github.com/mysad",
     "登爷", "Oxygen", "15.9994", 16, 2, "",
     "丹爷", "Fluorine", "18.9984032", 17, 2, "",
-    "郭橐驼", "Neon", "20.1797", 18, 2, "",
+    "郭橐驼", "Neon", "20.1797", 18, 2, "https://github.com/onezg",
     "大圣", "Sodium", "22.98976...", 1, 3, "",
     "军爷", "Magnesium", "24.305", 2, 3, "",
     "你大爷", "Aluminium", "26.9815386", 13, 3, "",
-    "超爷", "Silicon", "28.0855", 14, 3, "",
+    "超爷", "Silicon", "28.0855", 14, 3, "https://github.com/ljc520313",
     "腾爷", "Phosphorus", "30.973762", 15, 3, "",
     "鸿爷", "Sulfur", "32.065", 16, 3, "",
     "徐爷爷", "Chlorine", "35.453", 17, 3, "",
     "瑞爷", "Argon", "39.948", 18, 3, "",
     "帅爷", "Potassium", "39.948", 1, 4, "",
     "增爷", "Calcium", "40.078", 2, 4, "",
-    "Sc", "Scandium", "44.955912", 3, 4, "",
+    "菜勇", "Scandium", "44.955912", 3, 4, "https://github.com/Killua67",
     "Ti", "Titanium", "47.867", 4, 4, "",
     "V", "Vanadium", "50.9415", 5, 4, "",
     "Cr", "Chromium", "51.9961", 6, 4, "",
@@ -161,11 +161,7 @@ function init() {
         element.className = 'element';
         element.style.backgroundColor = 'rgba(0,127,127,' + (Math.random() * 0.5 + 0.25) + ')';
 
-        var addressUrl = document.createElement('a');
-        addressUrl.className = 'addressUrl';
-        addressUrl.href = table[t + 5];
-        addressUrl.target = '_blank';
-        element.appendChild(addressUrl);
+
 
         var number = document.createElement('div');
         number.className = 'number';
@@ -174,8 +170,27 @@ function init() {
 
         var symbol = document.createElement('div');
         symbol.className = 'symbol';
-        symbol.textContent = table[t];
-        element.appendChild(symbol);
+        //symbol.textContent = table[t];
+       // element.appendChild(symbol);
+
+        var addressUrl = document.createElement('a');
+        addressUrl.className = 'addressUrl';
+        if(''!=table[t + 5]){
+        	//console.log("2"+table[t + 5]);
+        	 addressUrl.href =table[t + 5];
+       		 /*addressUrl.onclick=function(){
+       		 	console.log(table[t + 5]);
+       		 	window.location.href=table[t + 5];
+       		 	}*/
+       	}else{
+       		//console.log(1);
+       		 addressUrl.href ='javascript:void(0);';
+
+       	}
+        addressUrl.target = '_blank';
+        addressUrl.textContent = table[t];
+        symbol.appendChild(addressUrl);
+ 				element.appendChild(symbol);
 
         var details = document.createElement('div');
         details.className = 'details';
@@ -302,6 +317,10 @@ function init() {
 
     window.addEventListener('resize', onWindowResize, false);
 
+}
+
+function open(url){
+	window.location.href=url;
 }
 
 function transform(targets, duration) {
