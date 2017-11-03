@@ -1,10 +1,12 @@
-**=====¶þÁúºþ»ùµØ×éÖ¯=====**
- - ¶þÁúºþ»ùµØ×éÖ¯×¨Îª×°±Æ¶øÉú£¬Ìá³«°üÀ¨µ«²»ÏÞÓÚÒÔÎÄ×Ö¡¢Í¼Æ¬£¨Ìá³«»ÆÉ«Í¼Æ¬¡¢¶Î×Ó£©¡¢ÊÓÆµ£¨Ìá³«²ÝÁñÔ­´´£©¡¢ÒôÆµ¡¢´úÂë£¨Ìá³«¿ªÔ´£©¡¢Á´½Ó£¨Ìá³«¼¼Êõ¡¢×°±Æ·ÖÏí£©¡¢ºì°üÐÎÊ½µÄ×°±Æ£»
- - Ìá³«¹ÜÀíÈËÔ±¶àÀ­ÉÆÓÚ×°±Æ¡¢¼¼Êõ¿ØµÄÈËÔ±ÈëÈº£» Ìá³«ÌÖÂÛÓîÖæ¡¢ÍâÐÇÈË¡¢ÈËÉúÀíÏë¡¢×Ê±¾Ö÷Òå¡¢ÎïÀíÑ§Ëµ¡¢´ó×ÔÈ»¡¢Ð°ÉñÂÛ¡¢Å£±Æ¼¼Êõ¡¢¹ú¼ÒÕþÖÎ¡¢Å®ÈË¡¢ÅÝæ¤É³Áú¡¢
- - ÈË¹¤ÖÇÄÜ£¬»úÆ÷ÈË£¬ÎÞÈË»ú£¬ÓÈÆäÊÇÌá³«¡¾´´Òµ¡¿ÀÛ»°Ìâ×°±Æ¡¢¼¼ÊõÌÖÂÛ¾Û¶Ñ×°±ÆµÈ£»
- - ºÏ×÷»ï°é:
- -  International Atomic Energy Agency/¹ú¼ÊÔ­×ÓÄÜ»ú¹¹ 
- -  NASA/ÃÀ¹úÓîº½¾Ö 
- -  APACHE/APACHE»ù½ð»á 
- -  International Mathematical Union/¹ú¼ÊÊýÑ§ÁªÃË 
- -  ¸Ä±äÊÀ½ç´Ó¼ÓÈë¶þÁúºþ¿ªÊ¼:542414498
+[äºŒé¾™æ¹–åŸºåœ°ç»„ç»‡](http://www.twodragonlake.com/)
+ - äºŒé¾™æ¹–åŸºåœ°ç»„ç»‡Geekï¼ŒæŠ€æœ¯æŽ§é›†èšåœ°
+ - æå€¡åŒ…æ‹¬ä½†ä¸é™äºŽä»¥æ–‡å­—ã€å›¾ç‰‡ã€è§†é¢‘ã€éŸ³é¢‘ã€ä»£ç ï¼ˆæå€¡å¼€æºï¼‰ã€é“¾æŽ¥ï¼ˆæå€¡æŠ€æœ¯ï¼‰ã€çº¢åŒ…ç­‰å½¢å¼æŠ€æœ¯åˆ†äº«ï¼›
+ - æå€¡ç›¸äº’æŽ¨èå–„äºŽæŠ€æœ¯äº¤æµäº’åŠ¨ã€æŠ€æœ¯æŽ§çš„äººå‘˜å…¥ç¾¤ï¼›
+ - æå€¡è®¨è®ºå®‡å®™ã€å¤–æ˜Ÿäººã€äººç”Ÿç†æƒ³ã€èµ„æœ¬ä¸»ä¹‰ã€ç‰©ç†å­¦è¯´ã€å¤§è‡ªç„¶ã€é»‘ç§‘æŠ€ã€äººå·¥æ™ºèƒ½ï¼Œæœºå™¨äººï¼Œæ— äººæœºï¼Œå°¤å…¶æ˜¯æå€¡ã€åˆ›ä¸šã€‘ç±»è¯é¢˜ã€æŠ€æœ¯è®¨è®ºèšä¼šç­‰ï¼›
+ - åˆä½œä¼™ä¼´:
+    -  [APACHEåŸºé‡‘ä¼šï¼ˆAPACHEï¼‰](http://www.apache.org/)
+    -  [ç¾Žå›½å®‡èˆªå±€ï¼ˆNASAï¼‰](https://www.nasa.gov/)
+    -  [å›½é™…æ•°å­¦è”ç›Ÿï¼ˆInternational Mathematical Union)](http://www.mathunion.org/)
+    -  [å›½é™…åŽŸå­èƒ½æœºæž„ï¼ˆInternational Atomic Energy Agencyï¼‰](https://www.iaea.org/)
+    -  æ”¹å˜ä¸–ç•Œä»ŽåŠ å…¥äºŒé¾™æ¹–å¼€å§‹:QQç¾¤:542414498
+       ![é’‰é’‰ç¾¤](images/ding.jpg)
