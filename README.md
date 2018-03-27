@@ -8,5 +8,5 @@
     -  [美国宇航局（NASA）](https://www.nasa.gov/)
     -  [国际数学联盟（International Mathematical Union)](http://www.mathunion.org/)
     -  [国际原子能机构（International Atomic Energy Agency）](https://www.iaea.org/)
-    -  改变世界从加入二龙湖开始:QQ群:542414498
+    -  改变世界从加入二龙湖开始：[![](https://img.shields.io/badge/QQ%E7%BE%A4-542414498-blue.svg)](http://shang.qq.com/wpa/qunwpa?idkey=c9e6bc3231a1a72378cf9d5354096ca7fcd07dc9105b39fd74f2f859558c3a8a)  
        ![钉钉群](images/ding.jpg)
